@@ -5,7 +5,7 @@
 - 📫 How to reach me taofeeqkolapo@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Code Addict
-- Projects: https://tulupay.com/live, https://switch.tulupay.com
+- 🌍 Projects: https://tulupay.com/live, https://switch.tulupay.com, https://gateway.tulupay.com, https://docs.tulupay.com
 - 
 <!---
 Taofeeq001/Taofeeq001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
